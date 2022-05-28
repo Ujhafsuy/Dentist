@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.209697f7.css",
+    "main.js": "/static/js/main.abb8a42e.js",
+    "static/media/doctor.jpg": "/static/media/doctor.8d8632ce75af99e3cda9.jpg",
+    "static/media/dente.jpg": "/static/media/dente.84db9c512c98129e1be5.jpg",
+    "index.html": "/index.html",
+    "main.209697f7.css.map": "/static/css/main.209697f7.css.map",
+    "main.abb8a42e.js.map": "/static/js/main.abb8a42e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209697f7.css",
+    "static/js/main.abb8a42e.js"
+  ]
+}
