@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dentist/static/css/main.9807d2db.css",
-    "main.js": "/Dentist/static/js/main.d9276ccd.js",
+    "main.css": "/Dentist/static/css/main.dd6be56a.css",
+    "main.js": "/Dentist/static/js/main.caa0d27b.js",
     "static/media/laboratorio.png": "/Dentist/static/media/laboratorio.92a900f9e47968a87324.png",
     "static/media/doctor.jpg": "/Dentist/static/media/doctor.8d8632ce75af99e3cda9.jpg",
     "static/media/zap.png": "/Dentist/static/media/zap.5fc400c4b153fc178ad7.png",
@@ -13,11 +13,11 @@
     "static/media/perfuracao.png": "/Dentist/static/media/perfuracao.f6e1fafae3144b423c9c.png",
     "static/media/letter-n.png": "/Dentist/static/media/letter-n.2fe7adbba4784d4b307a.png",
     "index.html": "/Dentist/index.html",
-    "main.9807d2db.css.map": "/Dentist/static/css/main.9807d2db.css.map",
-    "main.d9276ccd.js.map": "/Dentist/static/js/main.d9276ccd.js.map"
+    "main.dd6be56a.css.map": "/Dentist/static/css/main.dd6be56a.css.map",
+    "main.caa0d27b.js.map": "/Dentist/static/js/main.caa0d27b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9807d2db.css",
-    "static/js/main.d9276ccd.js"
+    "static/css/main.dd6be56a.css",
+    "static/js/main.caa0d27b.js"
   ]
 }
