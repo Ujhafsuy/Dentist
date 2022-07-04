@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dentist/static/css/main.7080a5bf.css",
+    "main.css": "/Dentist/static/css/main.77d5c7dc.css",
     "main.js": "/Dentist/static/js/main.e9f6adb7.js",
     "static/media/laboratorio.png": "/Dentist/static/media/laboratorio.92a900f9e47968a87324.png",
     "static/media/doctor.png": "/Dentist/static/media/doctor.8d8632ce75af99e3cda9.png",
@@ -11,11 +11,11 @@
     "static/media/perfuracao.png": "/Dentist/static/media/perfuracao.f6e1fafae3144b423c9c.png",
     "static/media/letter-n.png": "/Dentist/static/media/letter-n.2fe7adbba4784d4b307a.png",
     "index.html": "/Dentist/index.html",
-    "main.7080a5bf.css.map": "/Dentist/static/css/main.7080a5bf.css.map",
+    "main.77d5c7dc.css.map": "/Dentist/static/css/main.77d5c7dc.css.map",
     "main.e9f6adb7.js.map": "/Dentist/static/js/main.e9f6adb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7080a5bf.css",
+    "static/css/main.77d5c7dc.css",
     "static/js/main.e9f6adb7.js"
   ]
 }
